@@ -1,0 +1,25 @@
+# Query: john
+
+14 results - 4 files
+
+project-1.html:
+   25:               src="./assets/png/john-doe.png"
+   30:           <span class="header__logo-sub">John Doe</span>
+  212:             <h4 class="heading heading-sm text-lt">John Doe</h4>
+
+project-2.html:
+   25:               src="./assets/png/SANSKU-doe.png"
+   30:           <span class="header__logo-sub">John Doe</span>
+  212:             <h4 class="heading heading-sm text-lt">John Doe</h4>
+
+project-3.html:
+   25:               src="./assets/png/john-doe.png"
+   30:           <span class="header__logo-sub">John Doe</span>
+  212:             <h4 class="heading heading-sm text-lt">John Doe</h4>
+
+README.md:
+  174:           src="./assets/png/john-doe.png"
+  179:       <span class="header__logo-sub">John Doe</span>
+  240:     <h1 class="heading-primary">Hey, My name is John Doe</h1>
+  332:             <strong>John Doe</strong>
+  599:         <h4 class="heading heading-sm text-lt">John Doe</h4>
